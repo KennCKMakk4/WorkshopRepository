@@ -1,1 +1,2 @@
-"# 4WW3 - workshop repo" 
+# WorkshopRepository
+Mac2021 Web Services and Web Computing workshop 
